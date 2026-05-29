@@ -1,5 +1,9 @@
 ﻿# b-drive-bitrix24leads
 
+## Краткое описание
+
+Интеграционная функция для обработки лидов между B-Drive и Bitrix24, вынесенная в Yandex Cloud Functions.
+
 ## Назначение
 
 pet project
