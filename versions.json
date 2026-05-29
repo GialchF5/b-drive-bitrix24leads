@@ -1,0 +1,85 @@
+﻿[
+    {
+        "id":  "d4enmdj2g0deul82i4ks",
+        "function_id":  "d4e7qks9vhmhf18kiuol",
+        "created_at":  "2025-03-28T16:45:58.826Z",
+        "runtime":  "nodejs18",
+        "entrypoint":  "index.handler",
+        "resources":  {
+                          "memory":  "1476395008"
+                      },
+        "execution_timeout":  "600s",
+        "image_size":  "2789376",
+        "status":  "ACTIVE",
+        "tags":  [
+                     "$latest"
+                 ],
+        "log_options":  {
+                            "folder_id":  "b1gnufc37haf3rrd9ion"
+                        },
+        "concurrency":  "1",
+        "metadata_options":  {
+
+                             }
+    },
+    {
+        "id":  "d4e6pohcajjdvd98dirm",
+        "function_id":  "d4e7qks9vhmhf18kiuol",
+        "created_at":  "2025-03-28T16:32:33.099Z",
+        "runtime":  "nodejs18",
+        "entrypoint":  "index.handler",
+        "resources":  {
+                          "memory":  "1476395008"
+                      },
+        "execution_timeout":  "600s",
+        "image_size":  "2789376",
+        "status":  "OBSOLETE",
+        "log_options":  {
+                            "folder_id":  "b1gnufc37haf3rrd9ion"
+                        },
+        "concurrency":  "1",
+        "metadata_options":  {
+
+                             }
+    },
+    {
+        "id":  "d4ebfpoin1eppclj6upb",
+        "function_id":  "d4e7qks9vhmhf18kiuol",
+        "created_at":  "2025-03-28T16:28:17.100Z",
+        "runtime":  "nodejs18",
+        "entrypoint":  "index.handler",
+        "resources":  {
+                          "memory":  "1476395008"
+                      },
+        "execution_timeout":  "600s",
+        "image_size":  "2789376",
+        "status":  "OBSOLETE",
+        "log_options":  {
+                            "folder_id":  "b1gnufc37haf3rrd9ion"
+                        },
+        "concurrency":  "1",
+        "metadata_options":  {
+
+                             }
+    },
+    {
+        "id":  "d4emmi9btjbm8copphk1",
+        "function_id":  "d4e7qks9vhmhf18kiuol",
+        "created_at":  "2025-03-28T16:22:10.258Z",
+        "runtime":  "nodejs18",
+        "entrypoint":  "index.handler",
+        "resources":  {
+                          "memory":  "1476395008"
+                      },
+        "execution_timeout":  "600s",
+        "image_size":  "2789376",
+        "status":  "OBSOLETE",
+        "log_options":  {
+                            "folder_id":  "b1gnufc37haf3rrd9ion"
+                        },
+        "concurrency":  "1",
+        "metadata_options":  {
+
+                             }
+    }
+]
